@@ -1,3 +1,5 @@
+LE JEU DE DONNEES MANIPULE EST CINEMA
+
 TROUVEZ LES INFOS SUR L'ACTEUR "Tom Hanks":
 MATCH (tom:Person {name: "Tom Hanks"}) RETURN tom
 
