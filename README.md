@@ -15,7 +15,10 @@ Open source.
 c'est une Base de données transactionnelles, respectueuse des principes ACID et est disponible via la mise en place d'un cluster .
 elle Permet des requêtes rapides et des analyses avancées sur des ensembles de données complexes car elle Utilise APACHE LUCENE pour l'indexation et la recherche de données.
 
-*PARTICULARITE DE NEO4J
+#NEO4J dispose d'un puissant langage de requête,utilisé pour créer et récupérer des relations entre les données sans utiliser les requêtes complexes comme les jointures appele CYPHER
+#NEO4J dispose d'une Application Web intégrée qui permet de créer et interroger nos données, d'importer nos données à partir d’un fichier ou site web appele NEO4J BROSWER
+
+#PARTICULARITE DE NEO4J
 1.Architecture de clustering causale
 2.Tolérance aux pannes (plusieurs stratégies comme clustering autonome, réplica en mode lecture)
 3.Sans schéma
@@ -26,7 +29,7 @@ elle Permet des requêtes rapides et des analyses avancées sur des ensembles de
 8.Cohérence causale
 9.Système de requêtage plus plaisant (absence de jointures)
 
-*USE CASE
+#USE CASE
 1.Logistique 
 2.Réseau social
 3.Recommandation de produit
