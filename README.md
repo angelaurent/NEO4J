@@ -8,7 +8,7 @@
 5.Faire du requetage sur notre jeu de donnees.
 
 *UN PEU DE CONNAISSANCE
-NEO4J est une base de données orientée graphe. la particularité de cette base de donnée est de representer de maniere lisible(graphe), de stocker dans un grand nombre de donnees coherents 
+NEO4J est une base de données qui permet representer de maniere lisible(graphe), de stocker dans un grand nombre de donnees coherents 
 les informations qui sont connectées les unes aux autres de maniere complexe.
 elle Modélise les données sous forme de nœuds ,de relations et de propriétés,adaptée à toutes les données.
 Open source.
